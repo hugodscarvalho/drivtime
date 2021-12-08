@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="drivtime",
-    version="0.0.2",
+    version="0.0.3",
     author="Hugo Carvalho",
     author_email="hugodanielsilvacarvalho.hc@gmail.com",
     description="Driving time and rest periods in the road transport sector framework",
